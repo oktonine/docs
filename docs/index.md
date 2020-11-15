@@ -11,5 +11,5 @@ features:
   details: Feature 2 Description
 - title: Feature 3 Title
   details: Feature 3 Description
-footer: Made by Sohaib LAFIFI with ❤️
+footer: Made by Oktonine with ❤️
 ---
