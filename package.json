@@ -4,8 +4,8 @@
   "description": "Oktonine documentation ",
   "main": "index.js",
   "authors": {
-    "name": "Sohaib LAFIFI",
-    "email": "me@sohaibafifi.com"
+    "name": "Oktonine",
+    "email": "contact@oktonine.com"
   },
   "repository": "github.com/oktonine/docs/docs",
   "scripts": {
