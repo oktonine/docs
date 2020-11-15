@@ -1,0 +1,20 @@
+{
+  "name": "docs",
+  "version": "0.0.1",
+  "description": "Oktonine documentation ",
+  "main": "index.js",
+  "authors": {
+    "name": "Sohaib LAFIFI",
+    "email": "me@sohaibafifi.com"
+  },
+  "repository": "github.com/oktonine/docs/docs",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3", 
+    "moment": "^2.25.3"
+  }
+}
