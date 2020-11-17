@@ -1,11 +1,13 @@
 # Users management
 
-## Students
+In this section, you will learn how to create Oktonine accounts for students, teachers, and professionals (company's representatives)
+
+## Student accounts
 Students accounts need to be created by a school's manager or by a teacher. 
 
 There are two methods for students accounts creation:
 
-### 1- File import
+### 1- Creation via file import
 To import a group of students : 
 - Go to `Users` in the left menu and click on `Import students form an xlsx file`
 ![image](../img/manager/studentaccount/studentaccount1.png)
