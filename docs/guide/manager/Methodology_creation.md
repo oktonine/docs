@@ -20,7 +20,8 @@ At this level, you need to define the content of your methodology; you can do th
 Note: the terms of stage, process, and activity are inspired by systems engineering approaches used in the industry. For your usage, you can assume that a stage is a `milestone`, a process is `a set of activities` and activity as an activity, or anything else.
 
 
-Step 1: Adding stages
+**Step 1: Adding stages**
+
 - Click on `Add a new stage.`
 
 ![image](../img/manager/createmethodo/createmethodo3.png)
@@ -30,7 +31,8 @@ Step 1: Adding stages
 
 ![image](../img/manager/createmethodo/createmethodo4.png)
 
-Step 2: Adding processes to each stage
+**Step 2: Adding processes to each stage**
+
 You can then enter any stage by clicking on it in order to add processes to it.
 
 ![image](../img/manager/createmethodo/createmethodo5.png)
@@ -44,7 +46,8 @@ You can then enter any stage by clicking on it in order to add processes to it.
 
 ![image](../img/manager/createmethodo/createmethodo7.png)
 
-Step 3: Adding activities to processes
+**Step 3: Adding activities to processes**
+
 Finally, you can enter any process by clicking on it in order to add activities to it.
 
 ![image](../img/manager/createmethodo/createmethodo8.png)
@@ -68,8 +71,16 @@ You can also open the mind-map-like displaying of the methodology
 
 
 ## Use a methodology from the library
+Inside the Oktonine library, you can find some predefined methodologies that you can adapt and use for your projects
+
+You can do that, simply by opening the methodology.
 ![image](../img/manager/usemethodo/usemethodo1.png)
+
+Then, by clicking on "**Add to institute**"
 ![image](../img/manager/usemethodo/usemethodo2.png)
+
+Finally, by selecting your institute from the list.
+
 ![image](../img/manager/usemethodo/usemethodo3.png)
 
 [//]: # (## Duplicate and modify a methodology)
