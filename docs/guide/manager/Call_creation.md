@@ -1,7 +1,7 @@
 # Create a call-for-challenges
-When you use oktonine to make your students work on real life projects, in collaboration with companies, one of the challenges is to find these projects for you students.
+When you use Oktonine to make your students work on real-life projects in collaboration with companies, one of the challenges is to find these projects for your students.
 
-By using Oktonine you can pass through the `projectstore` to find these projects (we talk about that in another section), or you create your own call for challenges, that you can send to companies, this is the subject of this topic.
+By using Oktonine, you can pass through the `project store` to find these projects (we talk about that in another section), or you create your own call for challenges that you can send to companies; this is the subject of this topic.
 
 ## Create a call
 To create a call for challenges, you need to pass through these steps :
@@ -10,7 +10,7 @@ To create a call for challenges, you need to pass through these steps :
 
  ![Image](../img/manager/createcall/createcall1.png)
 
-- Then, click on create a call, this screen appears, and asks you to fill the information of your call.
+- Then, click on `create a call`, this screen appears and asks you to fill in the information of your call.
 
  ![Image](../img/manager/createcall/createcall2bis.png)
 
@@ -20,7 +20,7 @@ To create a call for challenges, you need to pass through these steps :
 
 
 ## Translate the call into different languages
-- To add different translations of your call, you can go to `Translations`, then click on `Add a translation`
+- To add different translations of your call, you can go to `Translations`, then click on `Add a translation.`
 
  ![Image](../img/manager/createcall/createcall5.png)
  
@@ -30,13 +30,13 @@ To create a call for challenges, you need to pass through these steps :
 
 ## Publish the call
 
-- When the call is created, it needs to be reviewed and approvec by Oktonine's team.
+- When the call is created, it needs to be reviewed and approved by the Oktonine team.
 
-- When validated you can share the call using it's public link 
+- When validated, you can share the call using its public link 
 
  ![Image](../img/manager/createcall/createcall8.png)
 
-- The call's public page will appears like that :
+- The call's public page will appear like that :
 
  ![Image](../img/manager/createcall/createcall7.png)
 
