@@ -43,15 +43,15 @@ The team's environment looks like that :
 
 ![image](../img/manager/coachteam/gototeam2.png)
 
-A: Team's students
-B: Team's progression
-C: Team's activities (issued from the methodology)
-D: Number of competencies attached to an activity; by clicking on this icon, you can validate the acquired competencies.
-E: Project delivrables (all the delivrables attached to the project's activities)
-F: Discussions of the team
-G: Competencies validated by the team (Register of competencies)
-H: An activity issued from the methodology, with the state `In progress.`
-J: By clicking on this icon, you can validate the acquired competencies 
+- A: Team's students
+- B: Team's progression
+- C: Team's activities (issued from the methodology)
+- D: Number of competencies attached to an activity; by clicking on this icon, you can validate the acquired competencies.
+- E: Project delivrables (all the delivrables attached to the project's activities)
+- F: Discussions of the team
+- G: Competencies validated by the team (Register of competencies)
+- H: An activity issued from the methodology, with the state `In progress.`
+- J: By clicking on this icon, you can validate the acquired competencies 
 
 
 ## Competencies validation
