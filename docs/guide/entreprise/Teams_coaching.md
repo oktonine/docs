@@ -1,8 +1,8 @@
 # Team's activities
 
-## Understand the workspace of your team 
+## Understand the environment of your team 
 
-Learn more about how you can get access to the workspace of the team working on your project : [Visualize a team work](../manager/Team_creation.md#visualize-a-team-work)
+Learn more about how you can get access to the workspace of the team working on your project : [Visualize a team's work](../manager/Team_creation.md#visualize-a-team-work)
 
 
 ## Assess the competencies of your team 
