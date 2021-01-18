@@ -15,20 +15,30 @@ By clicking on a specific team, its workspace will be displayed
 These are the most relevant elements of the team's workspace
 
 A: Team's members (students)
+
 B: Team's progression
+
 C: Team's activities (issued from the methodology)
+
 D: Number of competencies attached to an activity; by clicking on this icon, you can validate the acquired competencies.
+
 E: Project delivrables (all the delivrables attached to the project's activities)
+
 F: Discussions of the team
+
 G: Competencies validated by the team (Register of competencies)
+
 H: An activity issued from the methodology, with the state "In progress".
+
 I: Number of deliverables uploaded by students within this activity
+
 J: By clicking on this icon, you can validate the acquired competencies
+
 K: The process (step) this activity is part of
 
 ### Visualize the team/project methodology
 
-By clicking on the "Methodology" tab, you can visualize the methodology you need to folow, in order to perform your project. You can add activities to each level of the methodology, by you are not able to delete existing activities, processes and stages.
+By clicking on the "Methodology" tab, you can visualize the methodology you need to folow, in order to perform your project. You can add activities to each level of the methodology, but you are not able to delete existing activities, processes and stages.
 
 ![image](../img/student_img/applications/workspace3vizualisemethodology.png)
 
@@ -40,7 +50,7 @@ All the deliverables uploaded by your team for this project (within the differen
 
 ### Acquired skills
 
-Here you can check skills you already acquired and those to be acquired within the project
+Here, you can check skills you already acquired and those to be acquired within the project
 
 ![image](../img/student_img/applications/workspace5acquiredskills.png)
 
