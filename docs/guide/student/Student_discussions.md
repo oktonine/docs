@@ -21,7 +21,3 @@ Specify then your specific recipients, among students, teachers and companies
 You can also start a discussion directly within your team's workspace, by clicking on the "Discussions" tab.
 
 ![image](../img/student_img/applications/discussion1team.png)
-
-
-
-## Send an Email to a student
