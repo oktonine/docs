@@ -15,7 +15,7 @@ Click then on, "Forgot Your Password?" to define your password for the first tim
 
 
 You receive an email asking you to reset your password. Click on the link inside:
-![image](../img/student_img/applications/applicationforchallenge6.png)
+![image](../img/student_img/applications/account2resetemail.png)
 
 
 Provide a new password and validate your action
