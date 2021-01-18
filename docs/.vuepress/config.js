@@ -101,9 +101,10 @@ module.exports = {
           children: [
           //  '/guide/student/Coming_soon',
             '/guide/student/Account_creation',
-            '/guide/student/Challenges_projects',
-          // '/guide/student/Teams_workspace',
-          // '/guide/student/Student_discussions',
+            '/guide/student/Challenges',
+            '/guide/student/Projects-teams',
+            '/guide/student/Teams_workspace',
+            '/guide/student/Student_discussions',
           ]
         },
         {
