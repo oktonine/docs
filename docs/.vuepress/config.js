@@ -99,9 +99,9 @@ module.exports = {
           title: 'For Students',
           collapsable: true,
           children: [
-            '/guide/student/Coming_soon',
-          // '/guide/student/Account_creation',
-          // '/guide/student/Challenges_projects',
+          //  '/guide/student/Coming_soon',
+            '/guide/student/Account_creation',
+            '/guide/student/Challenges_projects',
           // '/guide/student/Teams_workspace',
           // '/guide/student/Student_discussions',
           ]
