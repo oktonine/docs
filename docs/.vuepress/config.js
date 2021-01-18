@@ -105,6 +105,7 @@ module.exports = {
             '/guide/student/Projects_teams',
             '/guide/student/Teams_workspace',
             '/guide/student/Student_discussions',
+            '/guide/student/Oktonine_drive',
           ]
         },
         {
